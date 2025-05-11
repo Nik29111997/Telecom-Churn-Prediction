@@ -11,6 +11,20 @@ In the telecom industry, customers frequently switch operators if not offered at
 - Retaining a customer is 5–10× cheaper than acquiring a new one.
 - The business goal: **Predict which customers are at high risk of churn** using customer-level data and ML models.
 
+## 🎯 Objectives
+
+- **Predict Customer Churn:** Build a model that can accurately predict which customers are at risk of leaving the company[2][5][6].
+- **Understand Customer Behavior:** Analyze patterns in customer data to identify why customers might leave[2][5][6].
+- **Support Business Decisions:** Provide clear, actionable insights and recommendations to help the business reduce churn and improve customer retention[2][5][6].
+
+## 🏆 Achievements
+
+- **Developed Accurate Prediction Models:** Built and tested several machine learning models (like Logistic Regression, Decision Trees, and Random Forests) to predict customer churn with high accuracy[2][6].
+- **Identified Key Risk Factors:** Discovered which customer behaviors and attributes are most linked to churn, helping the company understand what drives customers to leave[2][5][6].
+- **Actionable Insights:** Provided easy-to-understand recommendations for business teams to improve customer retention, such as targeting at-risk customers with special offers[2][5].
+- **Improved Data Understanding:** Cleaned and analyzed large datasets to extract meaningful trends and patterns, making complex data accessible for non-technical stakeholders[2][6].
+- **Business Impact:** Enabled the company to take proactive steps to keep valuable customers, leading to potential savings and increased customer loyalty[2][6].
+
 ## 📂 Data Description
 
 **Main Files:**
